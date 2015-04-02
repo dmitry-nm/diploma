@@ -1,1 +1,1 @@
-# diploma
+# Diploma work by Dmitry Misyuta
